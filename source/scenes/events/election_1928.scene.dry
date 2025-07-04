@@ -39,7 +39,7 @@ Let us hope this does not backfire.
 @boycott_elections
 title: Boycott the elections. Schleicher will rig it anyway.
 subtitle: Maybe the other parties will join us.
-view-if: chancellor == "Schleicher" and schleicher_post and dnef_total_votes >= 30
+view-if: president == "Hindenburg" 
 
 There’s little point in participating in an election that’s clearly rigged. The most we can do is boycott the vote—depress turnout and deny Schleicher the legitimacy he desperately needs. But if we aren’t strong enough, we’ll simply hand the <span style="color: #BFC8CC;">**DNEF**</span> a majority government on a silver platter.
 
