@@ -10,6 +10,7 @@ tests
 
 - @ok: ok
 - @no: no
+- @ok?: ok?
 
 @ok
 on-arrival: secret_trigger = 0
@@ -19,5 +20,10 @@ ok
 
 @no
 on-arrival: secret_trigger = 0
+go-to: cvp_merger
 
 ok
+
+@ok?
+on-arrival: secret_trigger = 0
+go_to: kvp_formed
