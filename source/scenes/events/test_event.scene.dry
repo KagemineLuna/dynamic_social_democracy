@@ -27,3 +27,5 @@ ok
 @ok?
 on-arrival: secret_trigger = 0
 go_to: kvp_formed
+
+ok
